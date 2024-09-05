@@ -1,0 +1,32 @@
+#container{
+    margin:auto;
+    width:50%;
+}
+#dropdown{
+    margin-left: 90%;
+    border-color: black;
+    border-width: 5px;
+}
+#textarea{
+    margin-top:auto;
+    width:700px;
+    height:300px;
+    background-color:honeydew;
+    border-width: 5px;
+    border-color: black;
+}
+
+#output{
+    margin-left: 5px;
+    margin-top:20px;
+    width:700px;
+    height: 180px;
+    background-color:black;
+    color:white
+}
+
+#compile{
+    background-color: yellow;
+    border-width: 3px;
+    margin-left: 5px;
+}
